@@ -1,0 +1,9 @@
+#	 GIT ohjeet
+
+
+
+	- git add [muuttuja/tiedosto/yms.] <-- lisää "listaan" muutokset joita halutaan viedä
+	- git commit -m "viesti"
+	- git branch -M main
+	- git remote add origin [url].git
+	- git push -u origin main	
